@@ -1,0 +1,12 @@
+{
+  "terminal.integrated.automationShell.linux": "",
+  "terminal.integrated.automationShell.osx": "",
+  "terminal.integrated.automationShell.windows": "",
+  "terminal.integrated.defaultProfile.linux": "",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "typescript.tsdk": "",
+  "terminal.integrated.env.osx": {
+  
+  },
+  "java.jdt.ls.vmargs": ""
+}
